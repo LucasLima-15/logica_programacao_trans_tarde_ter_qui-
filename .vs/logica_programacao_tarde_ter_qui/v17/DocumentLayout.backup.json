@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{319FEB10-9D62-4A6E-8B47-7899582F2A6C}|ex07\\ex07.csproj|c:\\users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{319FEB10-9D62-4A6E-8B47-7899582F2A6C}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B894070-F167-4335-9099-B72A2CC3C9FA}|ex06\\ex06.csproj|c:\\users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B894070-F167-4335-9099-B72A2CC3C9FA}|ex06\\ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,18 +44,30 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\ex06\\Program.cs",
-              "RelativeDocumentMoniker": "ex06\\Program.cs",
-              "ToolTip": "C:\\Users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\ex06\\Program.cs",
-              "RelativeToolTip": "ex06\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwBsAAAA1AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\ex07\\Program.cs",
+              "RelativeDocumentMoniker": "ex07\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\ex07\\Program.cs",
+              "RelativeToolTip": "ex07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T19:59:34.335Z",
+              "WhenOpened": "2025-01-14T20:19:38.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\ex06\\Program.cs",
+              "RelativeDocumentMoniker": "ex06\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\ex06\\Program.cs",
+              "RelativeToolTip": "ex06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:59:34.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\ex05\\Program.cs",
               "RelativeDocumentMoniker": "ex05\\Program.cs",
@@ -59,12 +75,11 @@
               "RelativeToolTip": "ex05\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T19:49:16.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T19:49:16.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
@@ -76,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
@@ -88,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "ex02\\Program.cs",
@@ -100,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pedro.lalima\\source\\repos\\logica_programacao_tarde_ter_qui\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
